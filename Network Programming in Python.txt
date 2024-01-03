@@ -1,0 +1,25 @@
+			=================================================================
+						Network Programming in Python
+			=================================================================
+=>The purpose of Network Programming in Python is that " To Share the Data OR Information between Multiple Devices which are located either in Same Network in Other Network".
+--------------------------------------
+=>Definition of Network:
+--------------------------------------
+=>A Network is a Collection of  Autonomous Inter-connected Computers Connected with Server for Sharing the Data OR Information between Multiple Devices which are located either in Same Network in Other Network.
+-------------------------------------------------------------------
+Definition of DNS(Domain Naming Service)
+-------------------------------------------------------------------
+=>The Physical Name of the Computer where Server Side Program Resides is called DNS.
+=>The Default DNS of Every Computer is "localhost".
+-------------------------------------------------------------------
+Definition of IP Address(Internet Protocol Address)
+-------------------------------------------------------------------
+=>The Address of Physical Name of the computer where Server Side Program Resides is called is called IP Address
+=>The Default IP Address of Every Computer is 127.0.0.1 (loop back address)
+-------------------------------------------------------------------
+Definition of Port Number
+-------------------------------------------------------------------
+=>A Port Number is a Logical Numerical ID where Server Side Program is Running.
+-------------------------------------------------------------------
+=>Hence Client Side Program want to get Connection with Server Side Program, Client Side Program must Pass (DNS, PortNO) OR (IPAddress, Portno).
+==============================================x=================================================
